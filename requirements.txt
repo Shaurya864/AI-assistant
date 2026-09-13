@@ -1,0 +1,31 @@
+# Core (required)
+requests
+sympy
+psutil
+feedparser
+
+# Optional: only needed if you set VOICE_ENABLED = True in config.py
+# faster-whisper
+# sounddevice
+# numpy
+
+# Optional: only needed for Spotify playback (music_tool.py)
+# spotipy
+
+# Optional: only needed for safe delete (files_tool.py) - moves to Recycle Bin
+send2trash
+
+# Optional: only needed for screen splitting (screen_tool.py)
+# pyautogui
+
+# Optional: only needed for mic/speaker control (audio_tool.py)
+# pycaw
+# comtypes
+
+# Optional: only needed for RAG memory (rag_tool.py)
+# chromadb
+
+# Optional: only needed for Gmail (email_tool.py)
+# google-api-python-client
+# google-auth-httplib2
+# google-auth-oauthlib
