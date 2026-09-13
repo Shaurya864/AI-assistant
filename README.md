@@ -104,3 +104,7 @@ Everything runs locally except: weather, news, country facts, and location looku
 ## License
 
 Personal project — use, modify, and learn from freely.
+
+An example-
+<img width="998" height="686" alt="image" src="https://github.com/user-attachments/assets/7b5a7040-25ba-485b-8096-bb6277045d77" />
+
